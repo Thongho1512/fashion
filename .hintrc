@@ -1,0 +1,20 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/name-role-value": "off",
+    "axe/text-alternatives": "off",
+    "meta-viewport": "off",
+    "no-inline-styles": "off",
+    "axe/structure": "off",
+    "disown-opener": "off",
+    "axe/aria": "off",
+    "compat-api/html": "off",
+    "manifest-file-extension": "off",
+    "meta-charset-utf-8": "off",
+    "axe/language": "off",
+    "button-type": "off",
+    "axe/forms": "off"
+  }
+}
